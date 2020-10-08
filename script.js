@@ -1,4 +1,4 @@
-let ownerName = "YovaniTellez"
+let ownerName = "yovanitellez"
 let userName = "yovanit1048";
 
 document.querySelectorAll(".owner-name").forEach((e) => {
